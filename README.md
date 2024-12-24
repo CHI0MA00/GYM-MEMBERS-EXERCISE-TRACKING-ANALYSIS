@@ -18,8 +18,6 @@ This project delves into the behaviors, trends, and engagement patterns of gym m
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Data Analysis](#data-analysis)
-
 [Data Visualization](#data-visualization)
 
 [Insights and Conclusion](#insights-and-conclusion)
@@ -87,4 +85,13 @@ EDA involved the exploratory of Data to answer some questions about the data suc
 - What groups (gender, age, experience) need engagement improvement?
 - How can programs be tailored for better participation?
 
+### Data Visualization
+---
+
+![CWW - 1](https://github.com/user-attachments/assets/a6353989-b49c-413b-9ce5-5a89fe913ee5)
+
+
+
+
+![CWW-2](https://github.com/user-attachments/assets/62710671-8371-422f-94ee-7cab81b78a3a)
 
