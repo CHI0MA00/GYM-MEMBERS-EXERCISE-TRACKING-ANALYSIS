@@ -126,7 +126,7 @@ EDA involved the exploratory of Data to answer some questions about the data suc
 
 ### Recommendations
 ---
-1. ### Encourage Participation Among Beginners:
+1. #### Encourage Participation Among Beginners:
 Increase support or guidance for beginners to help them increase their calorie burn and retain them longer.
 Offer introductory sessions or classes to help beginners progress more quickly.
 2. Optimize Workouts for Each Age Group:
