@@ -70,5 +70,21 @@ The data cleaning process was performed in Power BI, following these steps:
 - Created conditional column “Age sort” to arrange “Age Band” in order.
 - Executed DAX to calculate Average Age and Session Duration amongst members.
 
+### Exploratory Data Analysis
+---
+EDA involved the exploratory of Data to answer some questions about the data such as;
+- What is the total calorie burn and average session duration?
+- Which age group contributes most to calorie burn?
+- Gender-Based Analysis
+- How do calorie burn and workout frequency differ by gender?
+- Which gender has a higher max and average BPM?
+- Which age group maintains the highest BPM and workout frequency?
+- How does calorie burn vary across age groups?
+- Which workout type is most popular and burns the most calories?
+- Which workout type has the highest BPM?
+- Which experience level burns the most calories?
+- How does workout intensity vary by experience level?
+- What groups (gender, age, experience) need engagement improvement?
+- How can programs be tailored for better participation?
 
 
