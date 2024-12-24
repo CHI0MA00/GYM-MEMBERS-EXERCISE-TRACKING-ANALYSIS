@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/71a46096-0f79-453d-beec-d309e1778277)# GYM-MEMBERS-EXERCISE-TRACKING-ANALYSIS
+# GYM-MEMBERS-EXERCISE-TRACKING-ANALYSIS
 This project delves into the behaviors, trends, and engagement patterns of gym members,  utilizing data-driven insights to improve retention, membership growth, and overall customer satisfaction.
 
 ### Project Title: GYM MEMBERS EXERCISE TRACKING ANALYSIS
