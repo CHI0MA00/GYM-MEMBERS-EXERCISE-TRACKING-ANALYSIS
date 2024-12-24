@@ -10,6 +10,8 @@ This project delves into the behaviors, trends, and engagement patterns of gym m
 
 [Data Sources](#data-sources)
 
+[Data Types](#data-types)
+
 [Tools Used](#tools-used)
 
 [Data Cleaning and Preparations](#data-cleaning-and-preparations)
@@ -45,6 +47,15 @@ The "Gym Members Exercise Tracking Analysis" dashboard is a dynamic and interact
 - Workout Frequency (days/week): Number of workout sessions per week.
 - Experience Level: Level of experience, from beginner (1) to expert (3).
 - BMI: Body Mass Index, calculated from height and weight.
+
+### Data Sources
+---
+The main primary source of data used here is “Data.Gym_Members_Exercise_Tracking.csv” and this is an open-source data that can be freely downloaded from an open online source such as Kaggle or FRED or any other data repository site.
+
+### Data Types
+---
+The data types involved in the dataset included whole numbers, alphanumeric, decimal numbers, etc.
+
 
 
 
