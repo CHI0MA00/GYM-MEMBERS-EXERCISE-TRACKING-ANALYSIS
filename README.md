@@ -60,7 +60,15 @@ The data types involved in the dataset included whole numbers, alphanumeric, dec
 ---
 - Power BI: Utilized for Data cleaning and Visualization [Download Here](https://www.microsoft.com).
 
-
+### Data Cleaning and Preparations
+---
+The data cleaning process was performed in Power BI, following these steps:
+- Changed data types for consistency.
+- Column Renaming: Renamed columns for improved clarity and consistency.
+- New Column Creation: Used conditional column to classify age brackets (Age_Band) and categorized Experience Level into “Beginner”, 
+  “Advanced Beginner” and “Expert”.
+- Created conditional column “Age sort” to arrange “Age Band” in order.
+- Executed DAX to calculate Average Age and Session Duration amongst members.
 
 
 
