@@ -20,7 +20,11 @@ This project delves into the behaviors, trends, and engagement patterns of gym m
 
 [Data Visualization](#data-visualization)
 
-[Insights and Conclusion](#insights-and-conclusion)
+[Insights](#insights)
+
+[Recommendations](#recommendations)
+
+[Conclusion](#conclusion)
 
 ---
 
@@ -96,3 +100,34 @@ EDA involved the exploratory of Data to answer some questions about the data suc
 
 ![CWW-2](https://github.com/user-attachments/assets/62710671-8371-422f-94ee-7cab81b78a3a)
 
+
+### Insights
+---
+- Total Calories Burned: Gym members have collectively burned 881,000 calories.
+- Average Age: The average age of members is 39 years.
+- Workout Variety: There are four workout types tracked (possibly including Cardio, HIIT, and Strength).
+- Session Duration: The average workout session duration is approximately 1 hour.
+- Experience Level: Most calories burned are by "Advanced Beginners" (366.18K), followed by Beginners (273.12K) and 
+  Experts (241.68K).
+- Gender Breakdown: Males burned 483K calories (54.78%), while females burned 398K calories (45.22%).
+- Age Band: Members aged 45-54 burned the most calories (220K), while those over 55 burned the least (88K).
+- Max BPM by Gender: Female members show a slightly higher maximum BPM (52.55%) compared to males (47.45%), 
+  suggesting they reach higher heart rates during workouts.
+- Body Weight by Workout Type and Gender: Female members generally have a higher body weight engagement across most 
+  workout types (Cardio, Strength, Yoga, and HIIT). The distribution of body weight across workout types seems 
+  balanced, with both males and females showing varied body weights across each workout type.
+- Average BPM by Age Band: The 35-44 age group has the highest average BPM (26.12%), followed by the 45-54 (23.56%) 
+  and 25-34 (22.23%) age groups.
+- The under-25 and over-55 age bands contribute the least in terms of average BPM.
+- Workout Frequency by Workout Type: Strength training has the highest frequency (866 days/week), followed by Cardio 
+  (825 days/week), Yoga (801 days/week), and HIIT (740 days/week).This suggests that Strength and Cardio are the 
+  most popular workout types in terms of frequency.
+- Workout Frequency by Gender: Females show slightly higher workout frequency (52.26%) compared to males (47.74%), 
+  indicating a more consistent workout routine among female members.
+
+
+
+
+### Recommendations
+
+### Conclusion
