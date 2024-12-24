@@ -56,7 +56,9 @@ The main primary source of data used here is “Data.Gym_Members_Exercise_Tracki
 ---
 The data types involved in the dataset included whole numbers, alphanumeric, decimal numbers, etc.
 
-
+### Tools Used
+---
+- Power BI: Utilized for Data cleaning and Visualization [Download Here](https://www.microsoft.com).
 
 
 
